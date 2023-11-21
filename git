@@ -11,11 +11,14 @@ git push origin master/main
 
 git clone link
 git remote remove origin
+
+
 git rm --cached -r namedir
 
 
 
 git branch
+
 
 
 git branch - проверить ветки
